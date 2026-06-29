@@ -1,0 +1,11 @@
+Model Information:
+* title:	realistic Lion 3d model
+* source:	https://sketchfab.com/3d-models/realistic-lion-3d-model-6da45f5d5a9f4733b195c6f03c92d33c
+* author:	Tarun.Teja (https://sketchfab.com/Tarun.Teja)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "realistic Lion 3d model" (https://sketchfab.com/3d-models/realistic-lion-3d-model-6da45f5d5a9f4733b195c6f03c92d33c) by Tarun.Teja (https://sketchfab.com/Tarun.Teja) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
